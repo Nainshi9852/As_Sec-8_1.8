@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
